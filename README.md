@@ -12,7 +12,7 @@ Los personajes de la serie son:
             - Starlight 
 
 
-[text](https://www.imdb.com/title/tt1190634/)
+[ver los episodios y calificacion de la serie en: https://www.imdb.com/title/tt1190634/](https://www.imdb.com/title/tt1190634/)
 
 ![alt text](image.png)
 
